@@ -18,6 +18,7 @@
     padding: 20px;
     background-color: #fff;
     transition: all 0.5s;
+    z-index: -200;
 
 .card .icon {
     font-size: 3rem;
