@@ -277,3 +277,7 @@ tbody tr:nth-child(even) {
     opacity: 1;
     transform: scale(1);
 }
+
+#carouselExampleAutoplaying{
+    z-index: -1;
+}
